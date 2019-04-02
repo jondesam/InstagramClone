@@ -1,0 +1,4 @@
+#Tue Apr 02 15:42:19 EDT 2019
+base.0=/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
