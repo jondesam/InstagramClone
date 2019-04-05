@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/39f95958b37b7d05db6b406965538d1b/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/dad43b6482c39937b9343cc65507af81/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/3fd259494c22cddf7baec7f01d6fe9d3/AndroidManifest.xml:16:1-20:12
@@ -65,20 +65,20 @@ MERGED from [com.android.support:support-fragment:26.0.0] /Users/jonhyun/.gradle
 MERGED from [com.android.support:support-core-utils:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/cbdc1dfbd387e4ad13231f18a961a3be/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f67dae72a59d5462ce0347a825341788/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/e3e5d4b9c1b9066f91f076b7220a8bf9/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
@@ -141,7 +141,7 @@ ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Proje
 	android:name
 		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
 application
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-26:19
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-27:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/39f95958b37b7d05db6b406965538d1b/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/39f95958b37b7d05db6b406965538d1b/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/dad43b6482c39937b9343cc65507af81/AndroidManifest.xml:5:5-9:19
@@ -254,26 +254,30 @@ MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/c
 		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-40
 	android:name
 		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
-activity#com.parse.starter.UserListActivity
+activity#com.parse.starter.UserFeedActivity
 ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-63
 	android:name
 		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:19-51
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:19-51
 activity#com.parse.starter.MainActivity
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-25:20
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-26:20
 	android:label
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-45
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:13-41
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:17-77
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml

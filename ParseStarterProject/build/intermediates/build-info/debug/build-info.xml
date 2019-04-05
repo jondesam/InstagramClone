@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="CLASS_ADDED"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.3.2"
-    timestamp="1554494983715"
+    timestamp="1554499084595"
     token="8876095158916628380"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="400" />
+        duration="461" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="60" />
+        duration="37" />
     <task
         name="verifier"
-        duration="3" />
+        duration="17" />
 
     <artifact
         location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -30,34 +30,20 @@
 
     <build
         build-mode="FULL"
-        timestamp="1554491989119"
-        verifier="FULL_BUILD_REQUESTED" >
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1554496972505"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
             location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -69,13 +55,57 @@
             location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1554494983715"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1554498688917"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1554498778510"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1554499084595"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
