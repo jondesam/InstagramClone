@@ -1,17 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/39f95958b37b7d05db6b406965538d1b/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/dad43b6482c39937b9343cc65507af81/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/3fd259494c22cddf7baec7f01d6fe9d3/AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/cf5e399e4fce9970f33836f8eb868be5/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/7e2639475033d74a82b7bebd9cf67a2c/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:multidex:1.0.2] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6d620e090fd3716878763cb2116c6308/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/e89b078debc6df09250d73792434c1c5/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0fe955e54685b0626aec97028a93cb74/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/ebe88cce67d861c2ea5a11fbfc7861ea/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/82ec14b0e7f7996cfe3ef051d2b5af47/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/8db6f0c0aa142e6b56180f92daab7997/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/34718268f5d11850c2e8916fc2df39a5/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/88aad3d426d0da76973032a4f548239f/AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:16:1-33:12
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/307569e3d01a512bf8beedc5b0bbf1c3/AndroidManifest.xml:16:1-28:12
@@ -58,26 +59,31 @@ MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/jonhyun/.gradle/c
 MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/c138879a1c011399768d51bad4a37a2a/AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/15974465f12800780018d6e70eddce04/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/380bd1a808a6bc094e0ab51dd61df0ae/AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:support-v4:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/568d17093ee0d6610d4ace0ccb24a72f/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+MERGED from [com.android.support:support-v4:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/06116cb61c658b4a7dae1dc0ad4917f1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a801bae2c72748fcfe2be2a73f53f7b9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/d57fbb81503fb6bf80bc12dcc9b9fa25/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/cbdc1dfbd387e4ad13231f18a961a3be/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f67dae72a59d5462ce0347a825341788/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/e3e5d4b9c1b9066f91f076b7220a8bf9/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/307569e3d01a512bf8beedc5b0bbf1c3/AndroidManifest.xml:21:5-67
@@ -103,9 +109,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/jonhyun/.
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/21bd30582174290a8fa3274af70fe595/AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/21bd30582174290a8fa3274af70fe595/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/307569e3d01a512bf8beedc5b0bbf1c3/AndroidManifest.xml:22:5-79
@@ -125,17 +131,17 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/jonhyun/.
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/21bd30582174290a8fa3274af70fe595/AndroidManifest.xml:20:5-79
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/21bd30582174290a8fa3274af70fe595/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:5-79
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:5-79
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:22-76
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
 application
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:5-36:19
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-26:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/39f95958b37b7d05db6b406965538d1b/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/39f95958b37b7d05db6b406965538d1b/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/dad43b6482c39937b9343cc65507af81/AndroidManifest.xml:5:5-9:19
@@ -144,12 +150,14 @@ MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/jonhyun/.gr
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/3fd259494c22cddf7baec7f01d6fe9d3/AndroidManifest.xml:19:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/cf5e399e4fce9970f33836f8eb868be5/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/cf5e399e4fce9970f33836f8eb868be5/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/7e2639475033d74a82b7bebd9cf67a2c/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/7e2639475033d74a82b7bebd9cf67a2c/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/e89b078debc6df09250d73792434c1c5/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/e89b078debc6df09250d73792434c1c5/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0fe955e54685b0626aec97028a93cb74/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0fe955e54685b0626aec97028a93cb74/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/82ec14b0e7f7996cfe3ef051d2b5af47/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/82ec14b0e7f7996cfe3ef051d2b5af47/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/8db6f0c0aa142e6b56180f92daab7997/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/8db6f0c0aa142e6b56180f92daab7997/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/34718268f5d11850c2e8916fc2df39a5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/34718268f5d11850c2e8916fc2df39a5/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/307569e3d01a512bf8beedc5b0bbf1c3/AndroidManifest.xml:27:5-20
@@ -224,34 +232,48 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jonhyun/.g
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/15974465f12800780018d6e70eddce04/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/380bd1a808a6bc094e0ab51dd61df0ae/AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/380bd1a808a6bc094e0ab51dd61df0ae/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/568d17093ee0d6610d4ace0ccb24a72f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/568d17093ee0d6610d4ace0ccb24a72f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/06116cb61c658b4a7dae1dc0ad4917f1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/06116cb61c658b4a7dae1dc0ad4917f1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a801bae2c72748fcfe2be2a73f53f7b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a801bae2c72748fcfe2be2a73f53f7b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/d57fbb81503fb6bf80bc12dcc9b9fa25/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/d57fbb81503fb6bf80bc12dcc9b9fa25/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/cbdc1dfbd387e4ad13231f18a961a3be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/cbdc1dfbd387e4ad13231f18a961a3be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f67dae72a59d5462ce0347a825341788/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f67dae72a59d5462ce0347a825341788/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/e3e5d4b9c1b9066f91f076b7220a8bf9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/e3e5d4b9c1b9066f91f076b7220a8bf9/AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-41
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-43
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-40
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-63
+	android:name
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:19-51
 activity#com.parse.starter.MainActivity
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:9-33:20
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-25:20
 	android:label
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:13-45
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-41
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
@@ -264,14 +286,16 @@ MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/jonhyun/.gr
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/3fd259494c22cddf7baec7f01d6fe9d3/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/cf5e399e4fce9970f33836f8eb868be5/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/cf5e399e4fce9970f33836f8eb868be5/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/7e2639475033d74a82b7bebd9cf67a2c/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/7e2639475033d74a82b7bebd9cf67a2c/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:multidex:1.0.2] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6d620e090fd3716878763cb2116c6308/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6d620e090fd3716878763cb2116c6308/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/e89b078debc6df09250d73792434c1c5/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/e89b078debc6df09250d73792434c1c5/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0fe955e54685b0626aec97028a93cb74/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0fe955e54685b0626aec97028a93cb74/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/ebe88cce67d861c2ea5a11fbfc7861ea/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/ebe88cce67d861c2ea5a11fbfc7861ea/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/82ec14b0e7f7996cfe3ef051d2b5af47/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/82ec14b0e7f7996cfe3ef051d2b5af47/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/8db6f0c0aa142e6b56180f92daab7997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/8db6f0c0aa142e6b56180f92daab7997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/34718268f5d11850c2e8916fc2df39a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/34718268f5d11850c2e8916fc2df39a5/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/88aad3d426d0da76973032a4f548239f/AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/88aad3d426d0da76973032a4f548239f/AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:23:5-42
@@ -364,12 +388,22 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jonhyun/.g
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/15974465f12800780018d6e70eddce04/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/380bd1a808a6bc094e0ab51dd61df0ae/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/380bd1a808a6bc094e0ab51dd61df0ae/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/568d17093ee0d6610d4ace0ccb24a72f/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/568d17093ee0d6610d4ace0ccb24a72f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/06116cb61c658b4a7dae1dc0ad4917f1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/06116cb61c658b4a7dae1dc0ad4917f1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a801bae2c72748fcfe2be2a73f53f7b9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a801bae2c72748fcfe2be2a73f53f7b9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/d57fbb81503fb6bf80bc12dcc9b9fa25/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/d57fbb81503fb6bf80bc12dcc9b9fa25/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/cbdc1dfbd387e4ad13231f18a961a3be/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/cbdc1dfbd387e4ad13231f18a961a3be/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f67dae72a59d5462ce0347a825341788/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f67dae72a59d5462ce0347a825341788/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/e3e5d4b9c1b9066f91f076b7220a8bf9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/e3e5d4b9c1b9066f91f076b7220a8bf9/AndroidManifest.xml:21:5-23:58
 INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/7e2639475033d74a82b7bebd9cf67a2c/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		ADDED from /Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
@@ -390,6 +424,28 @@ service#com.google.android.gms.cast.framework.ReconnectionService
 ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/dad43b6482c39937b9343cc65507af81/AndroidManifest.xml:8:9-92
 	android:name
 		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/dad43b6482c39937b9343cc65507af81/AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/8db6f0c0aa142e6b56180f92daab7997/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/8db6f0c0aa142e6b56180f92daab7997/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/34718268f5d11850c2e8916fc2df39a5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/34718268f5d11850c2e8916fc2df39a5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/06116cb61c658b4a7dae1dc0ad4917f1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/06116cb61c658b4a7dae1dc0ad4917f1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a801bae2c72748fcfe2be2a73f53f7b9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a801bae2c72748fcfe2be2a73f53f7b9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/d57fbb81503fb6bf80bc12dcc9b9fa25/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/d57fbb81503fb6bf80bc12dcc9b9fa25/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/cbdc1dfbd387e4ad13231f18a961a3be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/cbdc1dfbd387e4ad13231f18a961a3be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f67dae72a59d5462ce0347a825341788/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f67dae72a59d5462ce0347a825341788/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/e3e5d4b9c1b9066f91f076b7220a8bf9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/e3e5d4b9c1b9066f91f076b7220a8bf9/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/jonhyun/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/090be756e2235d9f0be4d47b358f84fc/AndroidManifest.xml:26:9-29:64
 	android:configChanges

@@ -4,7 +4,7 @@
             "outputFile": "/Users/jonhyun/Desktop/Android Development/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
             "map": [
                 {
-                    "source": "/Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/7e2639475033d74a82b7bebd9cf67a2c/res/values-v13/values-v13.xml",
+                    "source": "/Users/jonhyun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d39f802427897268c99872c9db507431/res/values-v13/values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
